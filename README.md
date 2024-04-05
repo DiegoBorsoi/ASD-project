@@ -1,2 +1,2 @@
 # ASD-project
-Proejct developed for the ASD course
+Project developed for the ASD course
